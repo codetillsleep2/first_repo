@@ -1,12 +1,12 @@
-🚀 10gpa.in — CSAM & CYBER Study Hub
+##🚀 10gpa.in — CSAM & CYBER Study Hub
 
 A centralized platform for B.Tech CSAM & Cyber Security students to access syllabus, lab manuals, previous year questions, video resources, and consolidated study material — all in one place.
 
 Built with Next.js App Router + MongoDB, it delivers instant loading, server-rendered pages, and a clean structured UI optimized for academic needs.
 
-📸 Preview
+##📸 Preview
 <img width="1919" height="864" alt="image" src="https://github.com/user-attachments/assets/6814d65f-3c89-4117-94da-86ceb0a02bf0" />
-✨ Features
+##✨ Features
 🎯 Academic Resources
 
 Full syllabus breakdown for each subject
@@ -19,7 +19,7 @@ Video resources for quick revision
 
 End-to-end subject pages with theory + lab + external resources
 
-⚙️ Backend Functionality
+##⚙️ Backend Functionality
 
 Fully integrated MongoDB database for storing syllabus, questions, videos, and lab content
 
@@ -35,7 +35,7 @@ Dynamic syllabus formats
 
 Expandable content sections (videos, notes, PYQs)
 
-⚡ Performance & UX
+##⚡ Performance & UX
 
 Next.js server components for fast page loads
 
@@ -45,14 +45,14 @@ Clean responsive UI for mobile and desktop
 
 Centralized architecture (no separate backend repo needed)
 
-🛠️ Tech Stack
-Layer	Technologies
-Frontend	Next.js (App Router), React, Tailwind CSS
-Backend	Next.js Server Actions & API Routes
-Database	MongoDB Atlas (Mongoose ODM)
-Deployment	Vercel
-Auth / Security	Environment-secured API keys, server-side rendering
-📂 Project Architecture
+## 🛠️ Tech Stack
+# Layer	Technologies
+-Frontend	Next.js (App Router), React, Tailwind CSS
+-Backend	Next.js Server Actions & API Routes
+-Database	MongoDB Atlas (Mongoose ODM)
+-Deployment	Vercel
+-Auth / Security	Environment-secured API keys, server-side rendering
+## 📂 Project Architecture
 10gpa/
 │── app/
 │   ├── subjects/         # Dynamic subject pages
@@ -68,7 +68,7 @@ Auth / Security	Environment-secured API keys, server-side rendering
 │
 └── public/
 
-▶️ Running Locally
+## ▶️ Running Locally
 1. Clone the repository
 git clone <repo-url>
 cd 10gpa
@@ -86,7 +86,7 @@ NEXT_PUBLIC_SITE_URL=http://localhost:3000
 4. Start local dev server
 npm run dev
 
-🧪 API Routes Overview
+## 🧪 API Routes Overview
 GET /api/subjects
 
 Returns all subjects from MongoDB.
@@ -99,7 +99,7 @@ Dynamic Route: /subjects/[code]
 
 Auto-renders subject pages based on URL.
 
-📌 Roadmap
+##📌 Roadmap
 
 Add user login & bookmarks
 
@@ -111,7 +111,7 @@ Admin panel for adding subjects easily
 
 Semester-wise module progress tracker
 
-🤝 Contributions
+##🤝 Contributions
 
 Pull requests, issues, and suggestions are welcome!
 
