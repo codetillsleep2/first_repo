@@ -37,7 +37,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 - [Express](https://expressjs.com/)
 - [MongoDB](https://www.mongodb.com/atlas)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
@@ -52,7 +52,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
    
    ```
    
-   or for http
+   or for https
     ```sh
    git clone https://github.com/codetillsleep/notesapp2.0.git
    
