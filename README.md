@@ -4,9 +4,9 @@ A centralized platform for B.Tech CSAM & Cyber Security students to access sylla
 
 Built with Next.js App Router + MongoDB, it delivers instant loading, server-rendered pages, and a clean structured UI optimized for academic needs.
 
-##📸 Preview
+## 📸 Preview
 <img width="1919" height="864" alt="image" src="https://github.com/user-attachments/assets/6814d65f-3c89-4117-94da-86ceb0a02bf0" />
-##✨ Features
+## ✨ Features
 🎯 Academic Resources
 
 Full syllabus breakdown for each subject
@@ -35,7 +35,7 @@ Dynamic syllabus formats
 
 Expandable content sections (videos, notes, PYQs)
 
-##⚡ Performance & UX
+## ⚡ Performance & UX
 
 Next.js server components for fast page loads
 
