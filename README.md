@@ -6,8 +6,7 @@ This is a Centralized platform for B.Tech CSAM & CYBER study materials, previous
 <br><br/>
 
 
-
-https://github.com/user-attachments/assets/6c7c3147-dba7-48d8-91d4-6448cfeb70a2
+<img width="1919" height="864" alt="image" src="https://github.com/user-attachments/assets/6814d65f-3c89-4117-94da-86ceb0a02bf0" />
 
 ## Technologies Used
   - [NEXT.js](https://nextjs.org/)
