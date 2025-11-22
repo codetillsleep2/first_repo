@@ -3,7 +3,8 @@
 <div align="center">
   <a href="<img width="500" height="500" alt="og-image" src="https://github.com/user-attachments/assets/71aba269-4a5e-49d5-84fa-3eabb5c3a070" />
 ">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="<img width="500" height="500" alt="og-image" src="https://github.com/user-attachments/assets/255633f7-2307-47ff-8fd9-46e0420664fc" />
+" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">10gpa.in</h3>
