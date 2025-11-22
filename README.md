@@ -1,4 +1,4 @@
-<!-- PROJECT LOGO -->
+
 <br />
 <div align="center">
   <a href="https://www.10gpa.in/" target="_blank">
@@ -18,7 +18,7 @@
 </div>
 
 
-<!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 <img width="1894" height="863" alt="image" src="https://github.com/user-attachments/assets/0ccc8100-81c0-4059-b67e-437c503aef38" />
@@ -41,7 +41,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 
 
-<!-- GETTING STARTED -->
+
 ## Getting Started
 
 
