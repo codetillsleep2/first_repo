@@ -1,4 +1,4 @@
-##🚀 10gpa.in — CSAM & CYBER Study Hub
+## 🚀 10gpa.in — CSAM & CYBER Study Hub
 
 A centralized platform for B.Tech CSAM & Cyber Security students to access syllabus, lab manuals, previous year questions, video resources, and consolidated study material — all in one place.
 
