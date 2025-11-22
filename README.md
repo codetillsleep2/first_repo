@@ -6,8 +6,9 @@
   </p>
 
 <h3 align="center">
-  [10gpa.in](https://www.10gpa.in/)
- </h3>
+  <a href="https://www.10gpa.in/" target="_blank">10gpa.in</a>
+</h3>
+
 
   <p align="center">
     An awesome README template to jumpstart your projects!
