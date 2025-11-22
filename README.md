@@ -1,9 +1,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <p>
+  <a href="https://www.10gpa.in/" target="_blank">
    <img alt="Logo" width="80" height="80" src="https://github.com/user-attachments/assets/a3dffc23-846e-48d5-a92e-f463bf0aa9b4" />
-  </p>
+  </a>
 
 <h3 align="center">
   <a href="https://www.10gpa.in/" target="_blank">10gpa.in</a>
@@ -11,7 +11,7 @@
 
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    B.Tech CSAM & CYBER study materials, previous year questions, and exam resources.
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
