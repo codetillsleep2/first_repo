@@ -58,6 +58,7 @@
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
+<img width="1894" height="863" alt="image" src="https://github.com/user-attachments/assets/0ccc8100-81c0-4059-b67e-437c503aef38" />
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
