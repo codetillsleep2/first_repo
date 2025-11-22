@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/codetillsleep/notesapp2.0/blob/main/public/og-image.png">
+  <a href="https://github.com/codetillsleep/notesapp2.0/blob/main/public/og-image.svg">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
