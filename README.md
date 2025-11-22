@@ -1,11 +1,12 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/codetillsleep/notesapp2.0/blob/main/public/og-image.svg">
+  <a href="<img width="500" height="500" alt="og-image" src="https://github.com/user-attachments/assets/71aba269-4a5e-49d5-84fa-3eabb5c3a070" />
+">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">10gpa.in</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
