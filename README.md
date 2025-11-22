@@ -6,7 +6,7 @@
   </p>
 
 <h3 align="center">
- ### [10gpa.in](https://www.10gpa.in/)
+  [10gpa.in](https://www.10gpa.in/)
  </h3>
 
   <p align="center">
